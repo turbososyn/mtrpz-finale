@@ -1,0 +1,6 @@
+import pytz
+
+TOKEN = "7590260955:AAFNzZGuSO7pCInqsRRdPFJwUGBMw4TAPMY"
+
+TIMEZONE_STR = "Europe/Kyiv"
+TIMEZONE = pytz.timezone(TIMEZONE_STR)
